@@ -1,4 +1,4 @@
-- 👋 Hello! This is Uttej Reddy Pakanati
+- 👋 Hello! This is Uttej Reddy Pakanati. I'm a data analytics professional with over 4 years of experience working for one of the big 4 accounting firms.
 
 
 <!---
