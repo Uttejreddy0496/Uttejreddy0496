@@ -1,4 +1,4 @@
-- 👋 Hello! This is Uttej Reddy Pakanati. I have more than four years of experience as a data analytics professional, having worked at one of the big 4 accounting firms, and an additional 1.5 years of experience at a consulting firm.
+- 👋 Hello! This is Uttej Reddy Pakanati. I have more than four years of experience as a data analytics professional, having worked at one of the big 4 accounting firms, and an additional 2.5 years of experience at a consulting firm.
 
 
 <!---
